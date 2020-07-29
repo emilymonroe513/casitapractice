@@ -1,12 +1,17 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Casita
+featuredImage: 'https://ucarecdn.com/77ef5b6b-6135-476b-9d42-d863fd132c6f/'
+subtitle: A home away from home
+accordion:
+  - content: what is this?
+    title: Testing this
+  - content: what???
+    title: and this?
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Children's home in Honduras
+  title: Casita Copan
 ---
 
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
